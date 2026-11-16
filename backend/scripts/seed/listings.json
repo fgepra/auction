@@ -1,0 +1,50 @@
+[
+  {
+    "name": "책상 위 먼지를 꿈으로 바꿔 주는 지우개",
+    "art": "book",
+    "startPrice": 500,
+    "currentPrice": 1700,
+    "bidCount": 6,
+    "status": "active",
+    "endsInMin": 1700,
+    "endDate": null,
+    "winner": null,
+    "registeredDate": "2026-10-18"
+  },
+  {
+    "name": "말하지 않아도 안부를 전해 주는 엽서",
+    "art": "key",
+    "startPrice": 800,
+    "currentPrice": 2400,
+    "bidCount": 9,
+    "status": "active",
+    "endsInMin": 48,
+    "endDate": null,
+    "winner": null,
+    "registeredDate": "2026-10-15"
+  },
+  {
+    "name": "내일 날씨를 미리 입어 보는 외투",
+    "art": "umbrella",
+    "startPrice": 1000,
+    "currentPrice": 3200,
+    "bidCount": 11,
+    "status": "sold",
+    "endsInMin": null,
+    "endDate": "2026-10-14",
+    "winner": "하늘다람",
+    "registeredDate": "2026-10-07"
+  },
+  {
+    "name": "잃어버린 양말 한 짝을 찾아 주는 서랍",
+    "art": "shoe",
+    "startPrice": 300,
+    "currentPrice": 300,
+    "bidCount": 0,
+    "status": "unsold",
+    "endsInMin": null,
+    "endDate": "2026-10-10",
+    "winner": null,
+    "registeredDate": "2026-10-03"
+  }
+]

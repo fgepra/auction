@@ -1,0 +1,53 @@
+[
+  {
+    "name": "웃음소리를 녹음해 두는 조개껍데기",
+    "maker": "오후세시",
+    "art": "jar",
+    "startPrice": 600,
+    "myBids": [
+      800,
+      1400,
+      2100
+    ],
+    "wonDate": "2026-10-12",
+    "tookHours": 30
+  },
+  {
+    "name": "잠들기 전에 별을 세어 주는 베개",
+    "maker": "윤슬",
+    "art": "lamp",
+    "startPrice": 1000,
+    "myBids": [
+      1100,
+      1500,
+      2300,
+      2900,
+      3600
+    ],
+    "wonDate": "2026-10-05",
+    "tookHours": 51
+  },
+  {
+    "name": "한 번만 되감을 수 있는 손목시계",
+    "maker": "소리",
+    "art": "clock",
+    "startPrice": 2000,
+    "myBids": [
+      4200
+    ],
+    "wonDate": "2026-09-28",
+    "tookHours": 3
+  },
+  {
+    "name": "주머니 속 작은 장마",
+    "maker": "새벽네시",
+    "art": "cloud",
+    "startPrice": 500,
+    "myBids": [
+      700,
+      900
+    ],
+    "wonDate": "2026-09-20",
+    "tookHours": 18
+  }
+]
